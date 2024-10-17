@@ -1,10 +1,11 @@
 # Comparatif des coûts pour 3 infrastructures sur 5 fournisseurs cloud ☁️
 
 ## Sommaire
-- [Infrastructure n°1 : 1 serveur (16 Go de RAM, 4 vCPU, 100 Go de stockage SSD) 💻](#infrastructure-n1--1-serveur-16-go-de-ram-4-vcpu-100-go-de-stockage-ssd)
-- [Infrastructure n°2 : 6 serveurs (6 Go de RAM, 3 vCPU, 20 Go de stockage chacun) 🖥️](#infrastructure-n2--6-serveurs-6-go-de-ram-3-vcpu-20-go-de-stockage-chacun)
-- [Infrastructure n°3 : 3 serveurs + Load Balancer + Base de données managée 🗄️](#infrastructure-n3--3-serveurs--load-balancer--base-de-données-managée)
+- [Infrastructure n°1 : 1 serveur (16 Go de RAM, 4 vCPU, 100 Go de stockage SSD) 💻](#infrastructure-n1--1-serveur-16-go-de-ram-4-vcpu-100-go-de-stockage-ssd-)
+- [Infrastructure n°2 : 6 serveurs (6 Go de RAM, 3 vCPU, 20 Go de stockage chacun) 🖥️](#infrastructure-n2--6-serveurs-6-go-de-ram-3-vcpu-20-go-de-stockage-chacun-)
+- [Infrastructure n°3 : 3 serveurs + Load Balancer + Base de données managée 🗄️](#infrastructure-n3--3-serveurs--load-balancer--base-de-données-managée-)
 - [Conclusion générale 🏁](#conclusion-générale-)
+
 
 ---
 
